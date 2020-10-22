@@ -19,4 +19,6 @@ function drawGrid() {
     ctx.stroke();
 }
 
-drawGrid();
+function resizeCanvas(event) {
+    drawGrid();
+}
