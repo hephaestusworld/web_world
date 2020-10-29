@@ -12,3 +12,20 @@ Rules?
  And satic dots are nice but we should add rules.
 Tools to add rules?
  Now I think about this abstract world -> empty with dots which has dimensions. And set of rules what say in witch way this dimensions are changed. So I can work with this now
+
+Also world is complex struct. and PC is amaizing tool to work with.
+I like to write things down and do not like reread it.
+So I need simple interface to world of information.
+I like to write down words I need only little help to reread it.
+So I can make up self dialogue. 
+and for first we already have set of tools for this.
+Files and text editors. you do not need any new things for this.
+What I need is little game plan for my life.
+So I can build happy free lifestyle.
+What I need to be happy ?
+1. I need fredom to do what I want.
+2. I need place to stay.
+3. I need supply that place with all I need for one year.
+
+So what I search is place where you can satisfy basic hunam needs.
+And all you need to do is do what you want.

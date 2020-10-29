@@ -1,0 +1,2 @@
+run at powershell
+python.exe -m http.server
